@@ -72,3 +72,4 @@ Typiske oppgaver:
 7. Gjør styling mer konsistent uten å over-engineere.
 8. Lag dark mode.
 9. Introduser en ny feature, for eksempel best ratet, kartvisning eller kommentarer.
+10. Test [playwright-skill](https://playwright.dev/agent-cli/skills) for å lage tester eller automatisk sjekk om ny funksjonalitet fungerer.
